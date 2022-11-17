@@ -1,0 +1,17 @@
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.csprojAssemblyReference.cache
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.Properties.Resources.resources
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.csproj.GenerateResource.cache
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.csproj.CoreCompileInputs.cache
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\bin\Debug\HealthLux.exe.config
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\bin\Debug\HealthLux.exe
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\bin\Debug\HealthLux.pdb
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\bin\Debug\MySql.Data.dll
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.csproj.CopyComplete
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.exe
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.pdb
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.frmLogin.resources
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.Forms.frmMain.resources
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.Forms.UIMaking.resources
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.Forms.frmMaternal.resources
+C:\Users\RonParu\Desktop\Project Systems\HealthLux\HealthLux\obj\Debug\HealthLux.Forms.frmPatientMasterList.resources
